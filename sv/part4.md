@@ -16,10 +16,10 @@ serien av RFC-dokument som täcker allt från TCP, DNS, FTP till "best
 practices", HTTP och mängder med protokollvarianter som aldrig kom någon vart.
 
 Inom IETF formas arbetetsgrupper (working groups) med ett avgränsat
-arbetsområde som jobbar mot en mål. De etablerar en stadga med ett antal
+arbetsområde som jobbar mot ett mål. De etablerar en stadga med ett antal
 riktlinjer och begränsningar för vad de ska åstadkomma. Alla som vill är
 tillåtna att delta i diskussionerna och utvecklingen. Alla som deltar och
-säker något har samma vikt och chans att påverka utgången, och alla är där som
+säger något har samma vikt och chans att påverka utgången, och alla är där som
 enskilda individer. Det läggs väldigt liten vikt vid vilka företag individerna
 jobbar för.
 
